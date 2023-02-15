@@ -1,0 +1,12 @@
+[submodule "Submodules/OpenAPI.Client"]
+	path = Submodules/OpenAPI.Client
+	url = https://github.com/awen221/OpenAPI.Client.git
+	branch = master
+[submodule "Submodules/LineNotify.Interface"]
+	path = Submodules/LineNotify.Interface
+	url = https://github.com/awen221/LineNotify.Interface.git
+	branch = master
+[submodule "Submodules/LineNotify_OpenAPI.Client"]
+	path = Submodules/LineNotify_OpenAPI.Client
+	url = https://github.com/awen221/LineNotify_OpenAPI.Client.git
+	branch = master
